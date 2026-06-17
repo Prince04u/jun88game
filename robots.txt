@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jun888.app/sitemap.xml
